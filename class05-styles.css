@@ -1,0 +1,17 @@
+#heading{
+          font-family: cursive;
+          color:brown;
+}
+.first-para{
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          color:green;
+
+}
+.second-heading{
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          color:cadetblue;
+}
+.second-para{
+          font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          color:rgb(194, 125, 23);
+}

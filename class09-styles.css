@@ -1,0 +1,16 @@
+input[type="text"]{
+          color:red;
+          background-color: aqua;
+}
+/* form{
+          text-align: center;
+} */
+a[href*="google"]{
+          color:burlywood;
+}
+a[href ^="https"]{
+          color:green;
+}
+input[type="submit"]{
+          color:red;
+}

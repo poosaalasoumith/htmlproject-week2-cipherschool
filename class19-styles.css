@@ -1,0 +1,27 @@
+nav {
+          /* border:2px solid grey; */
+          background-color: rgb(145, 142, 142);
+          /* height:10px;
+          width:900px; */
+          margin-top:20px;
+          margin-right:20px;
+}
+nav ul {
+          /* border:2px solid green; */
+          text-align :center;
+          padding-left:0px;
+}
+nav li{
+          list-style:none;
+          display:inline-block;
+          border-bottom:1px solid black;
+          margin:15px 20px;
+          font-size:20px;
+}
+
+h1{
+          border-bottom:2px solid grey;
+}
+div{
+          margin-left: 20px;
+}

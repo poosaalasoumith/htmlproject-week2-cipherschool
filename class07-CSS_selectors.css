@@ -1,0 +1,21 @@
+header{
+          background-color: beige;
+}
+.my-articles{
+          background-color:greenyellow;
+}
+header p{
+          color:brown
+}
+li a{
+          color:blue;
+}
+h2{
+          color:firebrick;
+}
+h2+p{
+          color:whitesmoke;
+}
+/* ul+p{
+          color:green;
+} */

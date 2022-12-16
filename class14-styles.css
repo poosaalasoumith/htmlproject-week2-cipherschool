@@ -1,0 +1,35 @@
+h1{
+          border:1px solid grey;
+          text-align:center;
+          background-color: grey;
+          padding:5px 10px 5px 50px;
+          margin-left: 400px;
+          margin-right:400px;
+          margin-top: 10px;
+          margin-bottom:10px;
+
+}
+.class1{
+          border:1px solid grey;
+          padding-top:10px;
+          padding-bottom:10px;
+          padding-right:10px;
+          padding-left:10px;
+          margin-left:400px;
+          margin-right:400px;
+}
+.class2{
+          border:1px solid grey;
+          padding-top:10px;
+          padding-bottom:10px;
+          padding-right:10px;
+          padding-left:10px;
+          margin-left:400px;
+          margin-right:400px;
+          margin-top:25px;
+}
+body{
+          font-family: 'Dancing Script', cursive;
+          font-family: 'Montserrat', sans-serif;
+          font-family: 'Poppins', sans-serif;
+}

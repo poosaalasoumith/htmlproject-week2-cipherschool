@@ -1,0 +1,18 @@
+body{
+          font-family: arial;
+          color:grey;
+}
+h1,h2{
+          border:2px solid black;
+          width:400px;
+          height:50px;
+          display:inline;
+}
+a{
+          border:2px solid blue;
+          margin:100px;
+          display: block;
+}
+h1{
+          padding:px;
+}
